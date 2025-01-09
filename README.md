@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi 😄
+### 🌱 I’m currently learning ...
+- Systems Programming (Linux Kernel, Embedded Systems, etc)
+- Cloud (AWS)
+
+###  🔭 I’m currently working on ...
+-  Porting **optee_os** to the cyclonev SoC (Altera)
+
+<br>
+
+👯 I'm looking for mentorship / collaboration in Embedded Systems / Operating Systems projects.
 
 <!--
 **rajeshrah22/rajeshrah22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
