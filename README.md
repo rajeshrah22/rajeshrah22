@@ -1,7 +1,7 @@
 ## Hi 😄
 ### I’m currently learning ...
 - Systems Programming (Linux Kernel, Embedded Systems, etc)
-- Cloud (AWS)
+- Cloud technologies
 
 ###   I’m currently working on ...
 -  Porting **optee_os** to the cyclonev SoC (Altera)
