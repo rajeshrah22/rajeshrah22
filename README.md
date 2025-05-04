@@ -4,7 +4,8 @@
 - Cloud technologies
 
 ###   I’m currently working on ...
--  Porting **optee_os** to the cyclonev SoC (Altera)
+- Ported **optee_os** to the cyclonev SoC (Altera)
+-  Integrating **optee_os** with **Linux Kernel**t on he cyclonev SoC (Altera)
 
 <br>
 
