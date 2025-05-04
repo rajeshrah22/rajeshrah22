@@ -5,7 +5,7 @@
 
 ###   I’m currently working on ...
 - Ported **optee_os** to the cyclonev SoC (Altera)
--  Integrating **optee_os** with **Linux Kernel**t on he cyclonev SoC (Altera)
+-  Integrating **optee_os** with **Linux Kernel** on he cyclonev SoC (Altera)
 
 <br>
 
