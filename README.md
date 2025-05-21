@@ -3,7 +3,7 @@
 - Systems Programming (Linux Kernel, Embedded Systems, etc)
 - Cloud technologies
 
-###   I’m currently working on ...
+###   Past work
 - Ported **optee_os** to the cyclonev SoC (Altera)
 -  Integrating **optee_os** with **Linux Kernel** on he cyclonev SoC (Altera)
 
